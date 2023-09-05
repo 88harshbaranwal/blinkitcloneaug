@@ -182,6 +182,9 @@ td{
    font-size: 14px;
   
 }
+.footer-1{
+   text-align: center;
+}
 @media screen and (max-width:768px){
    .nav,.row-2,.row-1{
       flex-direction:column !important;
